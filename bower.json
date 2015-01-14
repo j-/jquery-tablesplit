@@ -1,0 +1,31 @@
+{
+  "name": "jquery-tablesplit",
+  "version": "0.1.0",
+  "homepage": "https://github.com/j-/jquery-tablesplit",
+  "authors": [
+    "Jamie Hoeks <j@skeoh.com>"
+  ],
+  "description": "Split a table in two",
+  "main": "jquery.tablesplit.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "plugin",
+    "table",
+    "split",
+    "columns"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-tableslice": "~0.1.0"
+  }
+}
