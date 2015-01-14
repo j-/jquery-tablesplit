@@ -1,3 +1,8 @@
+/*!
+ * jQuery table split plugin
+ * @author Jamie Hoeks <j@skeoh.com>
+ * @license MIT
+ */
 (function ($) {
 
 $.fn.tableSplit = function (index, options) {
